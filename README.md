@@ -1,3 +1,1 @@
-# BadgeTest
-test
-123345
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F7F7&background=1362FF00&random=false&width=800&lines=%22Welcome+to+Suzzi's+GitHub!%F0%9F%91%8B%22)](https://git.io/typing-svg)
